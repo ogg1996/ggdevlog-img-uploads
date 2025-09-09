@@ -1,1 +1,1 @@
-# ggdevlog 게시글 이미지 저장소
+ggdevlog 게시글 이미지 저장소
